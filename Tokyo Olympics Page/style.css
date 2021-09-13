@@ -7,26 +7,17 @@
 
     .medalists {
       background-color:rgb(87, 161, 149);
-      padding: 2px, 2px, 2px, 2px;
+      padding: 10px, 2px, 10px, 2px;
       margin-left: 0px;
       margin-right: 0px;
+      
     }
 
-    /**.medalists-left-col {
-      background-color: darkslateblue;
-      padding: 2px, 2px, 2px, 2px;
-      margin-left: 40px;
-      margin-right: 0px;
-    }
+.navigation {
+    background-color: #000000;
+    
+}
 
-    .medalists-right-col {
-      background-color: darkslateblue;
-      padding: 2px, 2px, 2px, 2px;
-      margin-left: 40px;
-      margin-right: 0px;
-      box-sizing: content-box;
-    }
-**/
 
     .card {
       padding-top: 10px;
@@ -35,20 +26,37 @@
       column-width: 40px;
 
     }
+    
+    .card-title{
+        text-align:center;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
 
-#banner{
+    .card-text{
+        text-align:justify;
+    }
+
+  .banner{
   background-image: linear-gradient(orange,white,green);
   padding: 40px 4px 40px 4px;
   text-align:center;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  color:black;
 }
 
     /**  -------------Social media Links--------**/
-
+    .socialmediaLinks ul {
+        top: 90%;
+        left: 50%;
+        padding: 5px;
+        margin: 0;
+        display: flex;
+    }
 
     .socialmediaLinks ul li {
       list-style: none;
       margin: 0 10px;
+      
     }
 
     .socialmediaLinks ul li .fa {
@@ -56,7 +64,6 @@
       font-size: 25px;
       line-height: 50px;
       transition: .5s;
-
     }
 
     .socialmediaLinks ul li .fa:hover {
@@ -102,6 +109,7 @@
 
     .socialmediaLinks ul li:nth-child(3) a {
       background-color: green;
+    }
 
       /******************Timeline*****************************/
       .schedule *{
@@ -118,7 +126,6 @@
     }
     /*Center line*/
     .timeline::after{
-        content: '';
         position: absolute;
         width: 5px;
         background-color: white;
@@ -132,7 +139,7 @@
         background-color: inherit;
         color: black;
         position: relative;
-        width: 50%;
+        width: 25%;
     }
     .content{
         padding: 10px 30px;
@@ -148,9 +155,8 @@
         left: 50%;
     }
     .container::after{
-        content: '';
         position: absolute;
-        width: 25px;
+        width: 20px;
         height: 25px;
         right: -17px;
         background-color: white;
@@ -203,3 +209,6 @@
         color: white;
       }
 
+
+    
+     
