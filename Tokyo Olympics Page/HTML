@@ -518,7 +518,7 @@
     <br>
   </div>
   
-
+</section>
 
     <!---------------------------------Message box-/timeline------>
 
@@ -571,7 +571,7 @@
         </div>
       </div>
 
-      <section id="medalists">
+      <section id="medal">
         <h1 class="banner">Names to be embarked in Indian History
          <pre>                    -------Our Para Olympians---- </h1></pre> 
         <div class="medalists -row">
@@ -1178,7 +1178,7 @@ The final against Hong Kong’s Chu </p>
     <br>
     <br>
           </div>
-
+</section>
       <!-- Footer      -->
 
       <footer class="footer">
