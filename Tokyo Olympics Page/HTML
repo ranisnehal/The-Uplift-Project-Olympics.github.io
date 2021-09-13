@@ -147,29 +147,29 @@
     </button>
   </div>
 <!------------------------------Navigation----------------------------------------->
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Tokyo Olympics 2020</a>
+<nav class="navbar navbar-expand-lg navbar-light bg-light navigation">
+  <div class="container-fluid navigation">
+    <a class="navbar-brand" href="#" style="color:lightcyan;">Tokyo Olympics 2020</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="collapse navbar-collapse " id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="#" style="color:lightcyan;">Home </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Olympians</a>
+          <a class="nav-link" href="#" style="color:lightcyan;">Olympians</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Paraolympians</a>
+          <a class="nav-link" href="#" style="color:lightcyan;">Paraolympians</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link ">Timeline</a>
+          <a class="nav-link " style="color:lightcyan;">Timeline</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link ">Feedback</a>
-        </li>
+          <a class="nav-link " style="color:lightcyan;">Feedback</a>
+        </li> 
       </ul>
     </div>
   </div>
@@ -180,18 +180,20 @@
 
 
   <section id="medalists">
-    <h1 id="banner">Names to be embarked in Indian History </h1>
+    <h1 class="banner">Names to be embarked in Indian History </h1>
     <div class="medalists -row">
       <div class="medialists-left-col">
+        <br><br>
         <div class="row">
+          
           <!------------ Winner 1 : Neeraj Chopra------------------------>
           <div class="card  " style="width: 18rem;">
             <img
               src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202108/AP21219462944826_1200x768.jpeg?MxySq3g0tSlHuHuz.A_tzU5Tds86JwmQ&size=770:433"
-              class="card-img-top" alt="Neeraj Chopra holding Olympic Gold Medal">
+              class="card-img-top" alt="Neeraj Chopra holding Olympic Gold Medal" height="160px" width="100%">
             <div class="card-body">
               <h5 class="card-title">Neeraj Chopra</h5>
-              <p class="card-text">He is an Indian track and field athlete who competes in the Javelin Throw.</p>
+              <p class="card-text">He is an Indian track and field athlete who competes in the Javelin Throw.He falls under the category of track and field and is ranked at 4. His coach’s name is Uwe Hohn.He won the Tokyo Olympics Men's Javelin final with a throw of 87.58m.Neeraj's season-best throw is higher than what he managed in the Olympic final.Neeraj has a score of 1315 in men's javelin throw after his gold. </p>
               <a href="https://en.wikipedia.org/wiki/Neeraj_Chopra" class="btn btn-primary"> Know more about India's
                 Golden Boy</a>
               <div class="socialmediaLinks">
@@ -221,16 +223,16 @@
           <!------------ Winner 2-  Mira Bai Chanu----------------------->
 
           <div class="card " style="width: 18rem;">
-            <img src="https://img.onmanorama.com/content/dam/mm/en/sports/other-sports/images/2021/7/24/chanu-lift.jpg"
+            <img src="https://img.onmanorama.com/content/dam/mm/en/sports/other-sports/images/2021/7/24/chanu-lift.jpg" height="160px" width="100%"
               class="card-img-top"
               alt="Mira Bai Chanu giving every Indian goosebumps and a chill in the nerve through her performance in Tokyo Olympics">
-            <div class="card-body">
+            <div class="card-body" >
               <h5 class="card-title">Saikhom Mirabai Chanu</h5>
               <p class="card-text">Weightlifter Saikhom Mirabai Chanu scripted history when she claimed a silver medal
-                in the women's 49 kg weight category to open India's account on the first day of medal events in
-                olympics.</p>
+                in the women's 49 kg weight category with a total lift of 202 kg to open India's account on the first day of medal events in
+                olympics becoming the first Indian weightlifter to win silver at the Olympics and the second Indian weightlifter after Karnam Malleswari to win an Olympic medal.</p>
               <a href="https://en.wikipedia.org/wiki/Saikhom_Mirabai_Chanu" class="btn btn-primary">Know more about
-                Mirabai</a>
+                Mirabai Chanu</a>
               <div class="socialmediaLinks">
                 <ul>
                   <li> <a
@@ -258,12 +260,12 @@
           <div class="card " style="width: 18rem;">
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZKebIOCzh0tLi7uoDzqQkcv0g09HoCACH-PF7dsxkXjuWqU19yvIGTZDRLQEgljf3dkk&usqp=CAU"
-              class="card-img-top" alt="Ravi Kumar Dahiya with his Historic Silver">
+              class="card-img-top" alt="Ravi Kumar Dahiya with his Historic Silver" height="160px" width="100%">
             <div class="card-body">
               <h5 class="card-title">Ravi Kumar Dahiya</h5>
               <p class="card-text">For Ravi Kumar Dahiya, a silver medal is a reminder of a gold lost. He is a freestyle
                 wrestler who won a silver medal at the 2020 Tokyo Olympics in the 57 kg category. He is also a bronze
-                medalist from 2019 World Wrestling Championships and a two-time Asian champion..</p>
+                medalist from 2019 World Wrestling Championships and a two-time Asian Champion.Dahiya bagged gold at the 2020 Asian Wrestling Championships in New Delhi and the 2021 Asian Wrestling Championships in Almaty.</p>
               <a href="https://en.wikipedia.org/wiki/Ravi_Kumar_Dahiya" class="btn btn-primary">Know more about Ravi
                 Dahiya</a>
               <div class="socialmediaLinks">
@@ -292,13 +294,13 @@
         
           <div class="card " style="width: 18rem;">
             <img
-              src="https://images.hindustantimes.com/img/2021/08/03/550x309/20210801184L_1628010960658_1628010976721.jpg"
-              class="card-img-top" alt="...">
+              src="https://images.hindustantimes.com/img/2021/08/03/550x309/20210801184L_1628010960658_1628010976721.jpg" height="160px" width="100%"
+              class="card-img-top" alt="P.V. Sindhu with her medal">
             <div class="card-body">
               <h5 class="card-title">P. V. Sindhu</h5>
               <p class="card-text">Pusarla Venkata Sindhu is an Indian professional badminton player. Over the course of
                 her career, Pusarla has won medals at multiple tournaments including Olympics and on the BWF circuit
-                including a gold at the 2019 World Championships.</p>
+                including a gold at the 2019 World Championships.PV Sindhu defeated China's He Bingjiao to win women’s singles bronze medal in Tokyo.</p>
               <a href="https://en.wikipedia.org/wiki/P._V._Sindhu" class="btn btn-primary">To know More About PV
                 Sindhu</a>
               <div class="socialmediaLinks">
@@ -323,16 +325,17 @@
             </div>
           </div>
         </div>
-
+<br>
+<br>
         <!------------ Winner 5--  Lovlina Borgohain---------------------->
 <div class="row" >  
    <div class="card " style="width: 18rem;">
-          <img src="https://thebridge.in/h-upload/2021/08/01/12600-lovlina-borgohain.webp" class="card-img-top"
+          <img src="https://thebridge.in/h-upload/2021/08/01/12600-lovlina-borgohain.webp" height="160px" width="100%" class="card-img-top"
             alt="...">
           <div class="card-body">
             <h5 class="card-title">Lovlina Borgohain</h5>
             <p class="card-text"> An Indian amateur boxer who won a bronze medal at the 2020 Summer Olympics in the
-              women's welterweight event, becoming only the third Indian boxer to win a medal at the Olympics.</p>
+              women's welterweight event, becoming only the third Indian boxer to win a medal at the Olympics.The 23-year-old from the tiny Baro Mukhia village of Assam's Golaghat district became only the third Indian boxer to finish on the Olympic podium</p>
             <a href="https://en.wikipedia.org/wiki/Lovlina_Borgohain" class="btn btn-primary">Know more about Lovlina
               Borgohain</a>
             <div class="socialmediaLinks">
@@ -359,15 +362,15 @@
 
         <!------------ Winner 6-- Bajrang Punia---------------------->
         <div class="card " style="width: 18rem;">
-          <img src="https://www.thestatesman.com/wp-content/uploads/2018/08/Bajrang-Punia.jpg" class="card-img-top"
+          <img src="https://www.thestatesman.com/wp-content/uploads/2018/08/Bajrang-Punia.jpg" height="160px" width="100%" class="card-img-top"
             alt="...">
           <div class="card-body">
             <h5 class="card-title">Bajrang Punia</h5>
             <p class="card-text">An Indian freestyle wrestler, who competes in the 65-kg weight category. At the 2020
               Tokyo Olympics, Punia won a bronze medal by defeating Kazakhstan’s Daulet Niyazbekov with a wide 8-0
-              margin. Punia is the only Indian wrestler to win 3 medals at the World Wrestling Championships..</p>
+              margin. Punia is the only Indian wrestler to win 3 medals at the World Wrestling Championships.Bajrang Punia won India's sixth medal at the 2020 Tokyo Olympics.</p>
             <a href="https://images.thequint.com/thequint%2F2021-07%2F85939a8d-96fc-443b-9310-8109518729b5%2FHero_Image_1.jpg?auto=format%2Ccompress&fmt=webp&w=1200"
-              class="btn btn-primary">Know more About Punia</a>
+              class="btn btn-primary">Know more About Bajrang Punia</a>
             <div class="socialmediaLinks">
               <ul>
                 <li> <a
@@ -395,11 +398,11 @@
         <div class="card " style="width: 18rem;">
 
           <img src="https://www.hockeyindia.org/static-assets/waf-images/c4/02/e6/21-9/592-444/uwMr805gnY.jpg"
-            class="card-img-top" alt="India's Men Hockey Team">
+            class="card-img-top" alt="India's Men Hockey Team" height="160px" width="100%">
           <div class="card-body">
             <h5 class="card-title">Indian Men Hockey Team</h5>
             <p class="card-text">It has been a long time since hockey enjoyed such a spotlight in our country but since
-              now it's a bronze it will be a game changer.</p>
+              now it's a bronze it will be a game changer.It's the reward of all their hard work and dedication towards the game.Indian men's hockey team displayed a great game of counter-attacking play as it  defeate Germany by 5-4 </p>
             <a href="https://en.wikipedia.org/wiki/India_men%27s_national_field_hockey_team"
               class="btn btn-primary">Know more about Hockey Team</a>
             <div class="socialmediaLinks">
@@ -423,7 +426,7 @@
         <div class="card " style="width: 18rem;">
           <img
             src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/08/04/988826-indian-women-s-hockey-team.jpg"
-            class="card-img-top" alt="India's Women Hockey Team">
+            class="card-img-top" alt="India's Women Hockey Team" height="160px" width="100%">
           <div class="card-body">
             <h5 class="card-title">India's Women Hockey Team</h5>
             <p class="card-text">India women's hockey team may not have won a medal at the Olympics but it caught the
@@ -448,7 +451,9 @@
           </div>
         </div>
       </div>
-    </div>    
+    </div>
+    <br>
+<br>    
       <!------------ Winner 9------Aditi Ashok------------------>
       <div class="row">
       <div class="card " style="width: 18rem;">
@@ -509,9 +514,10 @@
       </div>
     </div>
     </div>
-
+    <br>
+    <br>
   </div>
-
+  
 
 
     <!---------------------------------Message box-/timeline------>
@@ -519,7 +525,7 @@
     <div class="schedule" id="schedule">
       <img src="https://reportrdoor.com/wp-content/uploads/2021/07/olympics-2021-opening-ceremony-live-in-us-malaysia-canada-uk-anywhere-reportr-door.jpg"
         width=100% height=100%>
-      <h1>Glance of our Historic Tokyo Olympics 2020 held in 2021 !</h1>
+      <h1 class="banner">Glance of our Historic Tokyo Olympics 2020 held in 2021 !</h1>
       <div class="timeline">
         <div class="container left">
           <div class="content">
