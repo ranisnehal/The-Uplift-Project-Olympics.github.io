@@ -2,7 +2,7 @@
 
 A Website using HTML,CSS along with Bootstrap Framework
 
-# PROBLEM STATEMENT:-
+# Problem Statement:-
 Information,Information everywhere but no authetic and complete information anywhere" This is the problem which India's youth who are having a keen interest in sports facing.They all are passionate and talented with their respective sports but due to lack of education and sometime due to lack of information,they don't get the authetic and right path at the most important timings in their career.Most of them who can be a medal winner in olympics end up wasting their talents by engaging themselves in other activities because neither they can reach coaches with high fees nor they have complete information. To solve this problem we have decided to make a website that has all the information related to sports from starting as a newbie to excelling in it.
 
 
