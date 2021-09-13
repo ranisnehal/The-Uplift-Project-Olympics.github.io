@@ -165,7 +165,7 @@
           <a class="nav-link" href="#" style="color:lightcyan;">Paraolympians</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " style="color:lightcyan;">Timeline</a>
+          <a href="#olympianstimelineclass" class="nav-link " style="color:lightcyan;">Timeline</a>
         </li>
         <li class="nav-item">
           <a class="nav-link " style="color:lightcyan;">Feedback</a>
@@ -521,7 +521,7 @@
 
 
     <!---------------------------------Message box-/timeline------>
-
+<a id="olympianstimeline"></a>
     <div class="schedule" id="schedule">
       <img src="https://reportrdoor.com/wp-content/uploads/2021/07/olympics-2021-opening-ceremony-live-in-us-malaysia-canada-uk-anywhere-reportr-door.jpg"
         width=100% height=100%>
@@ -571,11 +571,622 @@
         </div>
       </div>
 
+      <section id="medalists">
+        <h1 class="banner">Names to be embarked in Indian History
+         <pre>                    -------Our Para Olympians---- </h1></pre> 
+        <div class="medalists -row">
+          <div class="medialists-left-col">
+            <br><br>
+            <div class="row">
+              
+              <!------------ Winner 1 : Bhavina Patel------------------------>
+              <div class="card" style="width: 18rem;">
+                <img
+                  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.news18.com%2Fnews%2Fsports%2Ftokyo-paralympics-paddler-bhavina-patel-reaches-historic-final-to-fight-for-gold-4136351.html&psig=AOvVaw0B_7ECsJB0WaIJznRmkkCm&ust=1631614132535000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLjZyLza-_ICFQAAAAAdAAAAABAD"
+                  class="card-img-top" alt="Bhavina Patel" height="160px" width="100%">
+                <div class="card-body">
+                  <h5 class="card-title">Bhavina Patel</h5>
+                  <p class="card-text">Bhavina Patel is the first Indian table tennis player to win a medal at the Para Games.Appearing in her debut Paralympics, Bhavina Patel upset reigning champion Borislava Peric of Serbia en route to the final. In the gold medal match, the Indian lost to world No. 1 Zhou Ying of China and settled for the silver medal. </p>
+                  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiC46vX2vvyAhWk4zgGHcvICcEQFnoECAIQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBhavina_Patel&usg=AOvVaw1ExFFvUEBJ8Plej73-szJG" class="btn btn-primary"> Know more about Bhavani Patel
+                    </a>
+                  <div class="socialmediaLinks">
+                    <ul>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-facebook"></i>
+                        </a> </li>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-twitter"></i>
+                        </a> </li>
+                      <li> <a
+                          href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiWiIyg2vvyAhU3zDgGHWkuC48QFnoECAYQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fpatelbhavani%2F%3Fhl%3Den&usg=AOvVaw0W1sQUkUQKPyoAbPcFt9T6"
+                          target="_blank">
+                          <i class="fa fa-instagram"></i>
+                        </a> </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+    
+    
+    
+              <!------------ Winner 2- Nishad Kumar----------------------->
+    
+              <div class="card " style="width: 18rem;">
+                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finstagrambiography.com%2Fnews1%2F2649%2F-para---athlete-nishad-kumar-college-time-photos%2F&psig=AOvVaw27-tr8DSBKJZJ-txQgRngd&ust=1631614533875000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJi-4Pbb-_ICFQAAAAAdAAAAABAD" height="160px" width="100%"
+                  class="card-img-top"
+                  alt="Nishad Kumar, silver medal, men’s high jump T47, Tokyo 2020">
+                <div class="card-body" >
+                  <h5 class="card-title">Nishad Kumar</h5>
+                  <p class="card-text">Nishad Kumar won a silver medal in the men’s high jump T47 with a best effort of 2.06m, equalling his own Asian record.The 22-year-old Indian was tied in the second place with USA’s Dallas Wise, who also had a best jump of 2.06m. They both won silver. USA's Roderick Townsend-Roberts won the gold with his world record-breaking attempt of 2.15m jump.</p>
+                  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjj7MTm2_vyAhWXXCsKHZF1BE4QFnoECAIQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNishad_Kumar&usg=AOvVaw0SuDY6p3Geq_0wevjR0nzj" class="btn btn-primary">Know more about
+                    Nishad Kumar</a>
+                  <div class="socialmediaLinks">
+                    <ul>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-facebook"></i>
+                        </a> </li>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-twitter"></i>
+                        </a> </li>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-instagram"></i>
+                        </a> </li>
+                    </ul>
+                  </div>
+                </div>
+    
+              </div>
+    
+              <!------------ Winner 3  Avani Lekhara----------------------->
+              <div class="card " style="width: 18rem;">
+                <img
+                  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.livemint.com%2Fnews%2Findia%2Fanand-mahindra-dedicates-first-customised-special-suv-to-avani-lekhara-11630298422886.html&psig=AOvVaw3HEiYh_T-O8WVlhumsvpbN&ust=1631614837340000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNiHyIjd-_ICFQAAAAAdAAAAABAD"
+                  class="card-img-top" alt="Avani Lekhara" height="160px" width="100%">
+                <div class="card-body">
+                  <h5 class="card-title">Avani Lekhara</h5>
+                  <p class="card-text">The 19-year-old Avani Lekhara won a historic gold in her maiden Paralympics, shooting a new Paralympic record score of 249.6 in the women's 10m air rifle shooting standing SH1 final in Tokyo. It made Avani Lekhara the first Indian woman to win a Paralympic gold medal.
+ Avani beat defending Paralympic champion Cuiping Zhang of China and reigning world champion Iryna Shchetnik of Ukraine in the final to win the gold medal.She also won bronze medal in women's 50m rifle 3 positions SH1, Tokyo 2020</p>
+                  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjs68753PvyAhWHYisKHesRAz8QFnoECAIQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAvani_Lekhara&usg=AOvVaw28KB2qYET_VKFX-5oR6m5J" class="btn btn-primary">Know more about Avani Lekhara</a>
+                  <div class="socialmediaLinks">
+                    <ul>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-facebook"></i>
+                        </a> </li>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-twitter"></i>
+                        </a> </li>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-instagram"></i>
+                        </a> </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            
+            <!------------ Winner 4---- Devendra Jhajharia-------------------->
+            
+              <div class="card " style="width: 18rem;">
+                <img
+                  src="https://thelogicalindian.com/h-upload/2020/01/27/165117-1434181516546306015148421028486139n.jpg" height="160px" width="100%"
+                  class="card-img-top" alt="Devendra Jhajharia">
+                <div class="card-body">
+                  <h5 class="card-title">Devendra Jhajharia</h5>
+                  <p class="card-text">Record-breaker Devendra Jhajharia won his third Paralympic medal with a silver in the men's javelin throw F46 class in Tokyo.
+
+                    He threw a new personal best of 64.35m in the final, beating his own previous world and Paralympic record of 63.97m. However, Sri Lankan Dinesh Herath eclipsed him with a best throw of 67.79m to take the gold medal.
+                    
+                    The silver came 17 years after Devendra Jhajharia's first Paralympic medal at Athens 2004.</p>
+                  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjO_aXI3fvyAhXOXCsKHcQTDvAQFnoECAkQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDevendra_Jhajharia&usg=AOvVaw2k3pdgRDwZS3QBdLQH5IPy" class="btn btn-primary">To know More About Devendra Jhajharia</a>
+                  <div class="socialmediaLinks">
+                    <ul>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-facebook"></i>
+                        </a> </li>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-twitter"></i>
+                        </a> </li>
+                      <li> <a
+                          href="#"
+                          target="_blank">
+                          <i class="fa fa-instagram"></i>
+                        </a> </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+    <br>
+    <br>
+            <!------------ Winner 5--  Sundar Singh--------------------->
+    <div class="row" >  
+       <div class="card " style="width: 18rem;">
+              <img src="https://spiderimg.amarujala.com/assets/images/2019/11/11/sundar-singh-gurjar_1573468909.jpeg" height="160px" width="100%" class="card-img-top"
+                alt="Sundar Singh Gurjar">
+              <div class="card-body">
+                <h5 class="card-title">Sundar Singh Gurjar</h5>
+                <p class="card-text"> Sundar Singh Gurjar, bronze medal, men's javelin throw F46, Tokyo 2020.Sundar Singh Gurjar made it two Indians on the podium in the men's javelin throw F46 category with his bronze medal.He threw a season's best 64.01m in the final.</p>
+                <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjWjNfQ3_vyAhUKX30KHQruA0kQFnoECAQQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSundar_Singh_Gurjar&usg=AOvVaw2R2hD91q1p1i9x9qw87HM2" class="btn btn-primary">Know more about Sundar Singh Gurjar
+                  </a>
+                <div class="socialmediaLinks">
+                  <ul>
+                    <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-facebook"></i>
+                    </a> </li>
+                  <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-twitter"></i>
+                    </a> </li>
+                  <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-instagram"></i>
+                    </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+    
+            <!------------ Winner 6-- Yogesh Kuthiya---------------------->
+            <div class="card " style="width: 18rem;">
+              <img src="https://intv-cms-images.s3.amazonaws.com/2021/08/yogesh-kathuniya-1630296762.jpg" height="160px" width="100%" class="card-img-top"
+                alt="Yogesh Kathuniya">
+              <div class="card-body">
+                <h5 class="card-title">Yogesh Kathuniya</h5>
+                <p class="card-text">Yogesh Kathuniya, silver medal, men's discus throw F56, Tokyo 2020.India's Yogesh Kathuniya won his first Paralympic medal with a best attempt of 44.58m in the men's discus throw F56 class final.
+                   He was only bested by Brazil's Claudiney Batistia dos Santos, who threw a Paralympic record 45.59m to win the gold medal.</p>
+                <a href="https://en.wikipedia.org/wiki/Yogesh_Kathuniya"
+                  class="btn btn-primary">Know more About Yogesh Kathuniya</a>
+                <div class="socialmediaLinks">
+                  <ul>
+                    <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-facebook"></i>
+                    </a> </li>
+                  <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-twitter"></i>
+                    </a> </li>
+                  <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-instagram"></i>
+                    </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          
+          <!------------ Winner 7----Sumit Antil-------------------->
+          
+            <div class="card " style="width: 18rem;">
+    
+              <img src="https://akm-img-a-in.tosshub.com/aajtak/images/story/202108/sumit_0-sixteen_nine.jpg?size=1200:675"
+                class="card-img-top" alt=" Sumit Antil" height="160px" width="100%">
+              <div class="card-body">
+                <h5 class="card-title">Sumit Antil</h5>
+                <p class="card-text">Sumit Antil, gold medal, men's javelin throw F64, Tokyo 2020
+                  Sumit Antil thrice broke his own world record to win gold in the men's javelin throw F64 category.
+                 The 23-year-old began with a 66.95m throw, beating his previous world record of 62.88m. In his second attempt, Sumit Antil once again made a new world record with a 68.08m throw. 
+                  The new world record was finally recorded at 68.55m - which was Sumit Antil's fifth attempt in the final - and gave him the top step on the podium.</p>
+                <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiYl-Pu4fvyAhUy6XMBHaTzAaMQFnoECAMQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSumit_Antil&usg=AOvVaw13oxMPhvRepFe_nVibJnma"
+                  class="btn btn-primary">Know more about Sumit Antil</a>
+                <div class="socialmediaLinks">
+                  <ul>
+                    <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-facebook"></i>
+                    </a> </li>
+                  <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-twitter"></i>
+                    </a> </li>
+                  <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-instagram"></i>
+                    </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+    
+            <!------------ Winner 8-------Singhraj Adhana----------------->
+            <div class="card " style="width: 18rem;">
+              <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/article/163486-vekkwbzstx-1630409711.jpg"
+              class="card-img-top" alt="Singhraj Adhana" height="160px" width="100%">
+            <div class="card-body">
+              <h5 class="card-title">Singhraj Adhana</h5>
+              <p class="card-text">Singhraj Adhana, bronze medal, men's 10m air pistol shooting SH1, Tokyo 2020.Also,silver medal, men's 50m pistol SH1, Tokyo 2020.
+Singhraj Adhana won India's second shooting medal at the Paralympics with bronze in the men's 10m air pistol SH1 class.
+ The 39-year-old Singhraj Adhana shot 216.8 in the final to finish behind defending champion, China's Chao Yang - who won gold with a Paralympic record 237.9 - and silver-medallist Xing Huang, also of China.</p>
+              <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiapIyw4vvyAhUUjuYKHc_eATkQFnoECAYQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSinghraj_Adhana&usg=AOvVaw2ISgsXfMoi0YzdH2VNYlb8"
+                class="btn btn-primary">Know more about Singhraj Adhana</a>
+                <div class="socialmediaLinks">
+                  <ul>
+                    <li> <a href="#" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                      </a> </li>
+                    <li> <a href="#"
+                        target="_blank">
+                        <i class="fa fa-twitter"></i>
+                      </a> </li>
+                    <li> <a href="#" target="_blank">
+                        <i class="fa fa-instagram"></i>
+                      </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br>
+    <br>    
+          <!------------ Winner 9------Mariyappan Thangavelu----------------->
+          <div class="row">
+          <div class="card " style="width: 18rem;">
+            <img src="https://www.paralympic.org/sites/default/files/styles/image_crop_16_9_800_450/public/images/170109122014869_Mariyappan%2BThangavelu_Athletics_OISPhotos.JPG?itok=snDJWVYp"
+            class="card-img-top" alt="Mariyappan Thangavelu" height="160px" width="100%">
+          <div class="card-body">
+            <h5 class="card-title">Mariyappan Thangavelu</h5>
+            <p class="card-text">Mariyappan Thangavelu - Silver Medal - men's high jump T42, Tokyo 2020
+ Mariyappan Thangavelu won his second Paralympic medal, a silver in the men's high jump T42 class.
+After easily clearing the initial marks, Mariyappan Thangavelu took three attempts each to clear the 1.83m and 1.86m mark. The defending Paralympic champion went for gold by attempting the 1.88m but could not jump past in three attempts, which gave him the silver medal.
+USA's Sam Grewe cleared the 1.88m in his third and final jump to take the gold.</p>
+            <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwin15D04vvyAhXRmuYKHUoKBP4QFnoECAYQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMariyappan_Thangavelu&usg=AOvVaw1niOz46l8NYRf9H-temmBP"
+              class="btn btn-primary">Know more about Mariyappan Thangavelu</a>
+              <div class="socialmediaLinks">
+                <ul>
+                  <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-facebook"></i>
+                  </a> </li>
+                <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-twitter"></i>
+                  </a> </li>
+                <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-instagram"></i>
+                  </a> </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        
+            <!------------ Winner 10-- Sharad Kumar-------------------->
+            <div class="card " style="width: 18rem;">
+              <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.hindustantimes.com%2Fimg%2F2021%2F08%2F31%2F1600x900%2Fb6918bdc-0a7a-11ec-b9d7-045730a49909_1630428411442.jpg&imgrefurl=https%3A%2F%2Fwww.hindustantimes.com%2Fcities%2Fpatna-news%2Ftokyo-paralympics-bihar-s-sharad-kumar-creates-history-101630428412626.html&tbnid=MenSWolcmFDzvM&vet=12ahUKEwjDqumy4_vyAhVNVSsKHUufCbEQMygBegUIARC5AQ..i&docid=Ik5r7Wgh6FTI1M&w=1600&h=900&q=Sharad%20Kumar%20hd&client=firefox-b-d&ved=2ahUKEwjDqumy4_vyAhVNVSsKHUufCbEQMygBegUIARC5AQ"
+              class="card-img-top" alt="Sharad Kumar" height="160px" width="100%">
+            <div class="card-body">
+              <h5 class="card-title">Sharad Kumar</h5>
+              <p class="card-text">Sharad Kumar - Bronze Medal - men's high jump T42, Tokyo 2020
+ Joining compatriot Thangavelu on the podium was Sharad Kumar, who won bronze in the men's high jump T42.
+ Sharad Kumar cleared each of his first four marks, including the 1.83m, with his first jump to be assured of a medal. However, he was unable to clear the 1.86m with any of his three jumps and eventually took the bronze medal.</p>
+              <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi80rW24_vyAhU38XMBHeKdA8UQFnoECAIQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSharad_Kumar_(athlete)&usg=AOvVaw3E__d_M1hCpFJTwRykBN4B"
+                class="btn btn-primary">Know more about Sharad Kumar</a>
+                <div class="socialmediaLinks">
+                  <ul>
+                    <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-facebook"></i>
+                    </a> </li>
+                  <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-twitter"></i>
+                    </a> </li>
+                  <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-instagram"></i>
+                    </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          
+          <!------------ Winner 11----Praveen Kumar-------------------->
+          
+            <div class="card " style="width: 18rem;">
+    
+              <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsports.ndtv.com%2Folympics-2020%2Ftokyo-paralympics-indias-praveen-kumar-wins-silver-in-mens-high-jump-t64-2528144&psig=AOvVaw3OkpS0WKDrau0A4IR9sOBV&ust=1631616671462000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKj3pfTj-_ICFQAAAAAdAAAAABAD"
+              class="card-img-top" alt="Praveen Kumar" height="160px" width="100%">
+            <div class="card-body">
+              <h5 class="card-title">Praveen Kumar</h5>
+              <p class="card-text">Praveen Kumar, silver medal, men’s high jump T64, Tokyo 2020
+ Praveen Kumar bagged a silver medal in men’s high jump T64 with jump of 2.07m at the Tokyo Paralympics. With the effort, he bettered his own previous Asian record of 2.05m set at the 2021 World Para Athletics FAZZA Grand Prix in Dubai.
+ Great Britain’s Jonathan Broom-Edwards won the gold with a 2.10m jump while Poland’s Maciej Lepiato clinched bronze with a 2.04m attempt.</p>
+              <a href="https://en.wikipedia.org/wiki/Praveen_Kumar"
+                class="btn btn-primary">Know more about Praveen Kumar </a>
+                <div class="socialmediaLinks">
+                  <ul>
+                    <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-facebook"></i>
+                    </a> </li>
+                  <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-twitter"></i>
+                    </a> </li>
+                  <li> <a
+                      href="#"
+                      target="_blank">
+                      <i class="fa fa-instagram"></i>
+                    </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+        <!------------ Winner 12------Harvinder Singh----------------->
+        <div class="card" style="width: 18rem;">
+          <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.livemint.com%2Fimg%2F2021%2F09%2F03%2F1600x900%2FHarvinder-Singh-credit-dean-alberga-dutchtarget_1630670362724_1630670366379.jpg&imgrefurl=https%3A%2F%2Fwww.livemint.com%2Fsports%2Fnews%2Ftokyo-paralympics-archer-harvinder-singh-loses-semifinal-moves-into-bronze-medal-match-11630669826346.html&tbnid=0PCVyZYYDDHeEM&vet=12ahUKEwjiqqWY5vvyAhVD4HMBHbd9CzoQMygIegUIARC5AQ..i&docid=vTlb68ewdYtV6M&w=1600&h=900&itg=1&q=Harvinder%20Singh%20hd&client=firefox-b-d&ved=2ahUKEwjiqqWY5vvyAhVD4HMBHbd9CzoQMygIegUIARC5AQ"
+          class="card-img-top" alt="Harvinder Singh" height="160px" width="100%">
+        <div class="card-body">
+          <h5 class="card-title">Harvinder Singh</h5>
+          <p class="card-text">Harvinder Singh, bronze medal, men's individual recurve - open archery, Tokyo 2020
+ Harvinder Singh won India's first-ever Paralympics medal in archery after clinching the bronze in the Tokyo 2020 men's individual recurve - open event.
+The Indian archer lost to eventual gold medallist, USA's Kevin Mather, in the semi-finals but defeated South Korea's Kim Min Su 6-5 via shoot off in the bronze medal match to create history.</p>
+          <a href="https://en.wikipedia.org/wiki/Harvinder_Singh"
+            class="btn btn-primary">Know more about Harvinder Singh </a>
+            <div class="socialmediaLinks">
+              <ul>
+                <li> <a
+                  href="#"
+                  target="_blank">
+                  <i class="fa fa-facebook"></i>
+                </a> </li>
+              <li> <a
+                  href="#"
+                  target="_blank">
+                  <i class="fa fa-twitter"></i>
+                </a> </li>
+              <li> <a
+                  href="#"
+                  target="_blank">
+                  <i class="fa fa-instagram"></i>
+                </a> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        </div>
+        <br>
+        <br>
+        <br><br>
+        <div class="row">
+          
+          <!------------ Winner 13: ----Manish Narwal-------------------->
+          <div class="card  " style="width: 18rem;">
+            <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fthumb%2Fmsid-68923904%2Cwidth-1200%2Cheight-900%2Cresizemode-4%2F.jpg&imgrefurl=https%3A%2F%2Fm.timesofindia.com%2Fsports%2Fmore-sports%2Fmanish-narwal-targets-all-junior-senior-world-records-by-2020%2Farticleshow%2F68923707.cms&tbnid=-kYledalp2Sv_M&vet=12ahUKEwjF6uLF5vvyAhWwiNgFHW40CSAQMygDegUIARCuAQ..i&docid=38Ixwee1JoAuNM&w=1200&h=900&q=Manish%20Narwal%20hd&client=firefox-b-d&ved=2ahUKEwjF6uLF5vvyAhWwiNgFHW40CSAQMygDegUIARCuAQ"
+              class="card-img-top" alt="Manish Narwal" height="160px" width="100%">
+            <div class="card-body">
+              <h5 class="card-title">Manish Narwal</h5>
+              <p class="card-text">Manish Narwal, gold medal, men's 50m pistol SH1, Tokyo 2020
+
+                India’s Manish Narwal claimed the men's 50m pistol SH1 shooting gold medal with a Paralympic record-setting score at Tokyo.
+                
+                He qualified for the final placed seventh in qualifying but kicked on in the medal round and shot 218.2 – a new record at the Para Games.</p>
+              <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjF4c_C5vvyAhXy7XMBHRPFCucQFnoECAoQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FManish_Narwal&usg=AOvVaw0CecaM3lDt7EbxRqBLgfAZ"
+                class="btn btn-primary">Know more about Manish Narwal </a>
+              <div class="socialmediaLinks">
+                <ul>
+                  <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-facebook"></i>
+                  </a> </li>
+                <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-twitter"></i>
+                  </a> </li>
+                <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-instagram"></i>
+                  </a> </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+          <!------------ Winner 14- --Parmod Bhagat---------------->
+
+          <div class="card " style="width: 18rem;">
+            <img src="https://www.google.com/search?q=Parmod+Bhagat&client=firefox-b-d&tbm=isch&source=iu&ictx=1&fir=1cPoWOM428MEYM%252CHkhvC5wVfVyRCM%252C_&vet=1&usg=AI4_-kT2ePgzTQ3KvvTxQsXg638FqifwKg&sa=X&ved=2ahUKEwjDnt-J5_vyAhXsH7cAHQupD8AQ_h16BAgOEAE#imgrc=1cPoWOM428MEYM"
+            class="card-img-top" alt="Parmod Bhagat" height="160px" width="100%">
+          <div class="card-body">
+            <h5 class="card-title">Parmod Bhagat</h5>
+            <p class="card-text">Parmod Bhagat, gold medal, men's singles badminton SL3, Tokyo 2020
+
+              Pramod Bhagat became the first Paralympic champion in the men's singles badminton SL3 category. Badminton made its Para Games debut at Tokyo.
+              
+              Pramod Bhagat topped Group A to qualify for the semi-finals, where he beat Japan's Daisuke Fujihara 21-11, 21-16 to win a gold medal match. In the final, the Indian shuttler beat Great Britain's Daniel Bethell 21-14, 21-17 to claim top podium.</p>
+            <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjDnt-J5_vyAhXsH7cAHQupD8AQFnoECCAQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPramod_Bhagat&usg=AOvVaw1OaE_skLbpT8HDtyLNzUGB"
+              class="btn btn-primary">Know more about Parmod Bhagat</a>
+              <div class="socialmediaLinks">
+                <ul>
+                  <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-facebook"></i>
+                  </a> </li>
+                <li> <a
+                    href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjDnt-J5_vyAhXsH7cAHQupD8AQ6F56BAghEAI&url=https%3A%2F%2Ftwitter.com%2FPramodBhagat83%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&usg=AOvVaw3SdMZn5wuRArMgqTegV_i-"
+                    target="_blank">
+                    <i class="fa fa-twitter"></i>
+                  </a> </li>
+                <li> <a
+                    href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjDnt-J5_vyAhXsH7cAHQupD8AQFnoECD0QAQ&url=https%3A%2F%2Fwww.instagram.com%2Fpramod.bhagat8%2F%3Fhl%3Den&usg=AOvVaw3AbQK9GgesMoTJxW1HrJkB"
+                    target="_blank">
+                    <i class="fa fa-instagram"></i>
+                  </a> </li>
+                </ul>
+              </div>
+            </div>
+
+          </div>
+
+          <!------------ Winner 15  ---Manoj Sarkar------------------->
+          <div class="card " style="width: 18rem;">
+            <img src="data:image/jpeg;base64,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"
+              class="card-img-top" alt="Manoj Sarkar" height="160px" width="100%">
+            <div class="card-body">
+              <h5 class="card-title">Manoj Sarkar</h5>
+              <p class="card-text">Manoj Sarkar, bronze medal, men's singles badminton SL3, Tokyo 2020
+
+                India’s Manoj Sarkar, meanwhile, won bronze in the men's singles badminton SL3 category.
+                
+                Manoj Sarkar finished behind Pramod Bhagat in Group A to advance to the semi-finals, where he lost to eventual silver medallist Daniel Bethell. Manoj Sarkar, however, beat the other losing semi-finalist, Japan's Daisuke Fujihara, 22-20, 21-13 to secure bronze.</p>
+              <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnpq_H5_vyAhVt7XMBHaoXBTYQFnoECAsQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FManoj_Sarkar&usg=AOvVaw2mtW8T3RcWj5OrwHm-uLAG"
+                class="btn btn-primary">Know more about Manoj Sarkar</a>
+              <div class="socialmediaLinks">
+                <ul>
+                  <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-facebook"></i>
+                  </a> </li>
+                <li> <a
+                    href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiR15Xd5_vyAhUymeYKHebBADsQ6F56BAgqEAI&url=https%3A%2F%2Ftwitter.com%2Fmanojsarkar07%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&usg=AOvVaw0c5CpMtHReDLKwYx6qkp_z"
+                    target="_blank">
+                    <i class="fa fa-twitter"></i>
+                  </a> </li>
+                <li> <a
+                    href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiR15Xd5_vyAhUymeYKHebBADsQFnoECDwQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fmanojsarkar07%2F%3Fhl%3Den&usg=AOvVaw0atUJA5J7WU93DIvwpsw-x"
+                    target="_blank">
+                    <i class="fa fa-instagram"></i>
+                  </a> </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        
+        <!------------ Winner 16----Suhas Yathiraj ------------------->
+        
+          <div class="card " style="width: 18rem;">
+            <img src="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/07/8b89be5c-e3f0-493a-a125-9165454e55a9-1626449515.jpg"
+              class="card-img-top" alt="Suhas Yathiraj" height="160px" width="100%">
+            <div class="card-body">
+              <h5 class="card-title">Suhas Yathiraj</h5>
+              <p class="card-text">Suhas Yathiraj, silver medal, men's singles badminton SL4, Tokyo 2020
+
+                Suhas Yathiraj secured India’s third badminton medal at the Tokyo Paralympics with a silver in men's singles SL4.
+                
+                The Indian shuttler, who serves as an IAS officer in India, qualified for the semi-finals after finishing second in Group A behind reigning world champion Lucas Mazur of France. He went on to beat Indonesia’s Fredy Setiawan in the final four.</p>
+              <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwip5pCR6PvyAhWDheYKHRbnD-kQFnoECAwQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSuhas_Lalinakere_Yathiraj&usg=AOvVaw0CJNMFhav1J1PxMfgSJIQn"
+                class="btn btn-primary">Know more about Suhas Yathiraj </a>
+              <div class="socialmediaLinks">
+                <ul>
+                  <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-facebook"></i>
+                  </a> </li>
+                <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-twitter"></i>
+                  </a> </li>
+                <li> <a
+                    href="#"
+                    target="_blank">
+                    <i class="fa fa-instagram"></i>
+                  </a> </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+<br>
+<br>
+<br><br>
+            <div class="row">
+              
+              
+              
+            <!------------ Winner 17----------------------->
+            
+              <div class="card " style="width: 18rem;">
+                <img src="https://images.indianexpress.com/2021/09/Nagar-Gold.jpg"
+              class="card-img-top" alt="Krishna Nagar" height="160px" width="100%">
+            <div class="card-body">
+              <h5 class="card-title">Krishna Nagar</h5>
+              <p class="card-text">Krishna Nagar, gold medal, men's singles badminton SH6, Tokyo 2020
+Krishna Nagar ensured he closed India’s campaign at the Tokyo Paralympics on a high after winning the gold medal in men's singles badminton SH6 class.
+ The Rajasthan-born shuttler dominated the event from start to end. He cruised through the group stage with straight-game victories over Malaysia’s Didin Taresoh and Brazil’s Vitor Gonçalves Tavares. Another straight games victory against Great Britain’s Krysten Coombs in the semis.
+The final against Hong Kong’s Chu </p>
+              <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj_-Za16PvyAhUu7XMBHaQFBd8QFnoECAQQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKrishna_Nagar_(para-badminton)&usg=AOvVaw0mJJU-EsNx9TD9YIx0_LmD"
+                class="btn btn-primary">Know more about Krishna Nagar </a>
+                  <div class="socialmediaLinks">
+                    <ul>
+                      <li> <a
+                        href="#"
+                        target="_blank">
+                        <i class="fa fa-facebook"></i>
+                      </a> </li>
+                    <li> <a
+                        href="https://twitter.com/krishnanagar99?lang=en"
+                        target="_blank">
+                        <i class="fa fa-twitter"></i>
+                      </a> </li>
+                    <li> <a
+                        href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj_-Za16PvyAhUu7XMBHaQFBd8QFnoECBEQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fkrishnanagar99%2F%3Fhl%3Den&usg=AOvVaw16m6MNUebzA177Y7YZmytg"
+                        target="_blank">
+                        <i class="fa fa-instagram"></i>
+                      </a> </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+    <br>
+    <br>
+          </div>
+
       <!-- Footer      -->
 
       <footer class="footer">
-        <a href="#" class="footer-text">&copy; 2021 | Sneha Agarwal </a>
+        <a href="#" class="footer-text">&copy; 2021 | Sneha Agarwal  </a>
       </footer>
 </body>
 
 </html>
+       
+        
+            
